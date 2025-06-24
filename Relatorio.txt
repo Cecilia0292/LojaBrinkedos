@@ -1,0 +1,100 @@
+RELATÓRIO
+
+1. Nome dos integrantes e o que cada um fez.
+
+Pessoa 1 Philip Abner Pereira – Estrutura e Cadastro
+Objetivo: Transformar o programa atual para funcionar com nomes e preços sincronizados.
+
+Tarefas:
+
+Criar duas listas:
+
+cadastrarNome() → cadastrarProduto()
+
+mostrarNomes() → mostrarProdutos()
+
+removerNomes() → removerProduto()
+
+Adaptar cadastrarProduto(Scanner scan):
+
+Ler nome e preço com Scanner.
+
+Verificar se o nome está vazio ou já existe.
+
+Adicionar o nome e o preço nas listas, na mesma posição.
+
+Atualizar o menu:
+
+C - Cadastrar produto
+
+L - Listar produtos
+
+R - Remover produto
+
+M - Produto mais caro
+
+A - Média dos preços
+
+S - Produtos acima da média
+
+0 - Sair
+Pessoa 2 Ana clara Coutinho– Consultas
+Objetivo: Criar funções que consultam e mostram informações sobre os produtos.
+
+Tarefas:
+
+Criar mostrarProdutos():
+
+Mostrar todos os produtos com seus preços e índices.
+
+Criar mostrarProdutoMaisCaro():
+
+Identificar o maior valor da lista de preços e mostrar o nome correspondente.
+
+Criar mostrarMediaPrecos():
+
+Calcular e exibir a média dos preços.
+
+Criar mostrarAcimaDaMedia():
+
+Mostrar os produtos com preço acima da média calculada.
+Pessoa 3 Ruthe Cecilia de Melo – Extras, Testes e Relatório
+Objetivo: Fazer funções opcionais, testar e escrever o relatório.
+
+Tarefas:
+
+Adaptar removerProduto(Scanner scan):
+
+Remover o nome e o preço no mesmo índice escolhido.
+
+Criar métodos extras (opcional):
+
+atualizarPrecoProduto(): atualizar o preço de um produto pelo nome.
+
+calcularTotalPrecos(): somar todos os preços.
+
+Verificar se o nome já existe ao cadastrar.
+
+Testar o programa:
+
+Cadastrar, listar, remover e consultar produtos.
+
+Verificar se nome e preço estão sempre sincronizados.
+
+Escrever o relatório:
+
+Informar quem fez o quê.
+
+Como o grupo testou o programa.
+
+Explicar como o código funciona.
+
+2. Principais dificuldades encontradas.
+
+3. Como o grupo testou o programa antes de entregar.
+
+4. Breve explicação de como o programa funciona (1 ou 2 parágrafos)
+
+Trata-se de um sistema para cadastro de brinquedos da loja chamada brinkebrink. 
+O sistema tem as seguintes funcionalidades:
+ 
