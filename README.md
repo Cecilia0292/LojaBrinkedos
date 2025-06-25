@@ -10,7 +10,8 @@ O sistema oferece diversas funcionalidades, incluindo:
 ✅ Consulta ao brinquedo mais caro  
 ✅ Cálculo da média de preços  
 ✅ Exibição de brinquedos acima da média  
-✅ Atualização do preço de um brinquedo  
+✅ Atualização do preço de um brinquedo 
+✅ Exibição total dos preços dos brinquedos 
 
 
 ## 🎮 Como funciona?  
