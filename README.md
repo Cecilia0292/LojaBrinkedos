@@ -11,7 +11,7 @@ O sistema oferece diversas funcionalidades, incluindo:
 ✅ Cálculo da média de preços  
 ✅ Exibição de brinquedos acima da média  
 ✅ Atualização do preço de um brinquedo  
-✅ Exibição do total em dinheiro dos brinquedos cadastrados  
+
 
 ## 🎮 Como funciona?  
 O usuário interage com o sistema por meio de um **menu**, onde pode escolher as opções desejadas. O programa utiliza **listas sincronizadas** para armazenar os nomes e preços dos brinquedos, garantindo que os dados estejam sempre organizados corretamente.  
